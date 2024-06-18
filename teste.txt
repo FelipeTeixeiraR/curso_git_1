@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 vamos ver se eu sei usar git agr??
+=======
+vamos ver se eu sei usar git agr?
+wtfffff
+>>>>>>> be2af9c47a14e28799312affe832877438637703
